@@ -2,7 +2,7 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
 
-Laboratorio – Principio de Inversión de dependencias, Inversión de Control, Contenedores Livianos e Inyección de dependencias.
+## Laboratorio – Principio de Inversión de dependencias, Inversión de Control, Contenedores Livianos e Inyección de dependencias.
 ### Dependencias
 * [ Taller – Principio de Inversión de dependencias, Contenedores Livianos e Inyección de dependencias.](https://github.com/ARSW-ECI-beta/DIP_DI-SPRING_JAVA-GRAMMAR_CHECKER)
 ### Descripción
